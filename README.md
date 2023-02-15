@@ -17,4 +17,3 @@ You can click the Preview link to take a look at your changes.
 
 
 
-Apart from coding  I love solving puzzles and playing board games with my son.
