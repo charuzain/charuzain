@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Charu Jain.I'm a Full Stack Web Developer based in Toronto , Canada.
+- 👋 Hi, I’m Charu Jain.I'm a Full Stack Developer based in Toronto , Canada.
 -   I have an Engineering degree in Computer Science , MBA degree in Finance , Diploma in Full Stack Web Development , Diploma in Android Development
 -   I am a Certified Scrum Master , Certified Cloud Practitioner and AWS re/start Graduate.
 -   🌱 I’m currently learning Flutter & DART. 
