@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Charu Jain.I'm a Full Stack Developer based in Toronto , Canada 🇨🇦 🇨🇦.
--   I have an Engineering degree in Computer Science 🖥 , MBA degree in Finance 🏦 Diploma in Mobile Development📲 📱
+-   I have an Engineering degree in Computer Science 🖥 , MBA degree in Finance 🏦
 -   I am a Certified Scrum Master , Certified Cloud Practitioner and AWS re/start Graduate.
 -   🌱 I’m currently learning Flutter & DART. 
 -   I enjoy problem-solving and building things using code. I'm Committed to the constant improvement of my craft.
