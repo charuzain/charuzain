@@ -1,3 +1,9 @@
+
+# Hi, I'm Charu 👋🏾👨‍🎓‍💻
+<p align="top"> <img src="https://www.facebook.com/photo.php?fbid=398348610291758&set=pb.100003498662885.-2207520000&type=3" alt="charujain" /></p>
+
+
+
 - 👋 Hi, I’m Charu Jain.I'm a Full Stack Developer based in Toronto , Canada 🇨🇦 🇨🇦.
 -   I have an Engineering degree in Computer Science 🖥 , MBA degree in Finance 🏦
 -   I am a Certified Scrum Master , Certified Cloud Practitioner and AWS re/start Graduate.
@@ -12,8 +18,5 @@
 charuzain/charuzain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-
 
 
