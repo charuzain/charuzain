@@ -1,13 +1,17 @@
 
-- 👋 Hi, I’m Charu Jain.I'm a Full Stack Developer based in Toronto , Canada 🇨🇦 🇨🇦.
--   I have an Engineering degree in Computer Science 🖥 , MBA degree in Finance 🏦
+- 👋 Hey there! I’m Charu Jain, a Full Stack Developer with a love for problem-solving and coding, currently based in Toronto, Canada 🇨🇦..
+-   I have an Engineering degree in Computer Science 🖥, an MBA in Finance 🏦 (because who says coding and finance can't mix?).
 -   I am a Certified Scrum Master , Certified Cloud Practitioner and AWS re/start Graduate.
 -   🌱 I’m currently learning DSA & R 😀😀🤷‍♀️🤷‍♀️🤷‍♀️. 
 -   I enjoy problem-solving and building things using code. I'm Committed to the constant improvement of my craft.
 -   My goal is to become exceptional at Front-End that's built on strong foundational UX concepts, with the optimal amount of Back-End to be deadly!
--   I'm happiest when I'm coding, solving a complex DSA problem or learning new programming language.
--   Apart from coding  I love solving puzzles and playing board games with my son.
+-   When I’m not neck-deep in code, I’m either:
+     - Solving puzzles 🧩 (because who doesn’t love a good brain teaser?)
+     - Playing board games with my son 🎲 (he’s my go-to partner in crime)
+     - Or trying out new programming languages (because who doesn’t love learning something new every day?)
+-   I’m driven by growth, constantly improving my craft, and having a ton of fun while doing it. 💻✨
 -   📫 How to reach me : charuabhizain@gmail.com
+-   Let’s connect and build something awesome together! 🚀
 
 <!---
 charuzain/charuzain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
